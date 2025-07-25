@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 로그아웃 브랜치에서 저장한 텍스츠파일이다.
+=======
+version 1 coding..
+alsdjflaksjdf;laksjdlfkajsd
+23
+dkfjahslkdjfhlkunvlkaunevlkuh298yfo83yfhsl8eflkjah9232
+>>>>>>> users
+asdzxc1q3213qresq1w2e3r54t6yu

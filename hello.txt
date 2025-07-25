@@ -1,2 +1,1 @@
-version 1 coding..
-alsdjflaksjdf;laksjdlfkajsd
+로그아웃 브랜치에서 저장한 텍스츠파일이다.
